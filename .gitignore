@@ -228,3 +228,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/go,node,code,dart,linux,macos,windows
+
+*.h

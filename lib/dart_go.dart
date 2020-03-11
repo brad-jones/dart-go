@@ -1,5 +1,5 @@
 import 'package:dart_go/src/hello_word.dart';
 
-void helloWorld() {
+Future<void> helloWorld() async {
   hello();
 }
